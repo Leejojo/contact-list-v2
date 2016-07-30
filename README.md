@@ -1,7 +1,6 @@
-Sinatra
-=============
+# contact-list-v2
+SPA
 
-Brought to you by Lighthouse Labs
 
 ## Getting Started
 
